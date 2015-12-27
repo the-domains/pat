@@ -1,0 +1,28 @@
+name: pat
+favicon: null
+layout_spectrum: 0.19427088019438088
+typography_spectrum: 0.9230696354061365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.22429712116718292
+  lightness: 0.6891854621935636
+  saturation: 0.4206657747272402
+  rhythmicContrast: 0.8081329867709428
+purpose: []
