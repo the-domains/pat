@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[pat]]></title>
+        <description><![CDATA[pat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 10:39:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Let's give this AI a test drive]]></title>
+            <description><![CDATA[<article><h1>Let's give this AI a test drive</h1><p>A fun first post on a personal perception of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bd6bdf3f0ca53f3b14b89f51744decac44ea76.jpg"></article>]]></description>
+            <link>undefinedlets-give-this-ai-a-test-drive/index.html</link>
+            <guid isPermaLink="false">41d0fb84-5637-4327-bf53-28397222d29b</guid>
+            <pubDate>Sun, 27 Dec 2015 10:39:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
