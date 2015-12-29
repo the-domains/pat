@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[pat]]></title>
         <description><![CDATA[pat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 10:39:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 21:30:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Let's give this AI a test drive]]></title>
-            <description><![CDATA[<article><h1>Let's give this AI a test drive</h1><p>A fun first post on a personal perception of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bd6bdf3f0ca53f3b14b89f51744decac44ea76.jpg"></article>]]></description>
-            <link>undefinedlets-give-this-ai-a-test-drive/index.html</link>
+            <title><![CDATA[What are your thoughts?]]></title>
+            <description><![CDATA[<article><h1>What are your thoughts?</h1><p>A fun first post on a personal perception of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bd6bdf3f0ca53f3b14b89f51744decac44ea76.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pat/lets-give-this-ai-a-test-drive/index.html</link>
             <guid isPermaLink="false">41d0fb84-5637-4327-bf53-28397222d29b</guid>
-            <pubDate>Sun, 27 Dec 2015 10:39:00 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 21:30:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
