@@ -4,14 +4,21 @@
         <description><![CDATA[pat]]></description>
         <link>https://thegrid.ai/pat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 21:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 23:55:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What are your thoughts?]]></title>
-            <description><![CDATA[<article><h1>What are your thoughts?</h1><p>A fun first post on a personal perception of artificial intelligence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bd6bdf3f0ca53f3b14b89f51744decac44ea76.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What are your thoughts?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04bd6bdf3f0ca53f3b14b89f51744decac44ea76.jpg"></article>]]></description>
             <link>https://thegrid.ai/pat/lets-give-this-ai-a-test-drive/index.html</link>
             <guid isPermaLink="false">41d0fb84-5637-4327-bf53-28397222d29b</guid>
             <pubDate>Tue, 29 Dec 2015 21:30:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As we spin I feel myself without orientation ]]></title>
+            <description><![CDATA[<article><h1>As we spin I feel myself without orientation </h1><h2>Allowing the ground to be sideways I walk on the wall of the planet. </h2><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c095248cdf369dc4dbcbf8955ec55db3/croprotate.jpg?cropheight=5312&cropwidth=2988&degrees=-90&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe7b62822-866f-45ca-946d-cadc889dfea6.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7b62822-866f-45ca-946d-cadc889dfea6.jpg</link>
+            <guid isPermaLink="false">5b67a1e3-3100-4f1a-9b41-2aed79c6c3d3</guid>
+            <pubDate>Thu, 07 Jul 2016 23:55:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
